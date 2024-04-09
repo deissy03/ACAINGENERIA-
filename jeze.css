@@ -52,7 +52,7 @@
     flex-direction: column;
     text-align: center;
     gap: 10px;
-    background-color: bisque; 
+    background-color: rgb(179, 173, 167); 
     transform: translateY(0);
     position:absolute;
     margin-top: 80px;
